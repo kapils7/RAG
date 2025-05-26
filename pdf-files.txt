@@ -1,0 +1,3 @@
+/mnt/c/Users/acer/Desktop/LangChain_RAG/ollama-rag-main/data/EV Policy 2022 (1).pdf
+/mnt/c/Users/acer/Desktop/LangChain_RAG/ollama-rag-main/data/FY 2023-24 Report - HMCL.pdf
+/mnt/c/Users/acer/Desktop/LangChain_RAG/ollama-rag-main/data/Kapil Singh Resume 1.pdf
